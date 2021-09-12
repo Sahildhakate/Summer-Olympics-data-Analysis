@@ -4,4 +4,4 @@
 This Dataset contains data of Athlete who won a medal in Summer Olympics from year 1896-2012.
 There are few Questions based on the Summer Olympics Dataset which has been analysed.
 
-## Other info Contact: sahildhakate18@gmail.com
+## For Other info Contact: sahildhakate18@gmail.com
